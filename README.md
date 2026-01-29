@@ -2,7 +2,7 @@
 Sharp Memory Display with Seeed Xiao ESP32S3
 
 
-**YouTube video: XXX**
+**YouTube video: https://youtu.be/LOICNiwDKaE**
 
 ![THUMB_sharp_memory_display_1](https://github.com/user-attachments/assets/bf8256ba-52b6-4345-ace3-74cea5bd3a1b)
 
